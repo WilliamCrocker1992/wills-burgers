@@ -1,0 +1,1 @@
+insert into burgers (burger_name) values ("Black Panther Burger");
